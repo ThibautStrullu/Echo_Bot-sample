@@ -1,0 +1,15 @@
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\bin\Debug\netcoreapp2.1\EchoBot_sample.deps.json
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\bin\Debug\netcoreapp2.1\EchoBot_sample.runtimeconfig.json
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\bin\Debug\netcoreapp2.1\EchoBot_sample.runtimeconfig.dev.json
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\bin\Debug\netcoreapp2.1\EchoBot_sample.dll
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\bin\Debug\netcoreapp2.1\EchoBot_sample.pdb
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.csprojAssemblyReference.cache
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.csproj.CoreCompileInputs.cache
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.RazorAssemblyInfo.cache
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.RazorAssemblyInfo.cs
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.AssemblyInfoInputs.cache
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.AssemblyInfo.cs
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.RazorTargetAssemblyInfo.cache
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.dll
+C:\Users\Thibaut\source\repos\EchoBot_sample\EchoBot_sample\obj\Debug\netcoreapp2.1\EchoBot_sample.pdb
