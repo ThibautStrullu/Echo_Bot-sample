@@ -15,7 +15,13 @@ namespace EchoBot_sample.Bots
     {
         protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivity> turnContext, CancellationToken cancellationToken)
         {
-            await turnContext.SendActivityAsync(MessageFactory.Text($"Echo: {turnContext.Activity.Text}"), cancellationToken);
+            string strIncomingText = turnContext.Activity.Text;
+            string strOutgoingText = $"You said: {turnContext.Activity.Text}";
+            if (strIncomingText.ToLower().StartsWith("my name is"))
+            {
+                strOutgoingText = $"Nice to meet you, {strIncomingText.Substring(10, (strIncomingText.Length - 10))}";
+            }
+            await turnContext.SendActivityAsync(MessageFactory.Text(strOutgoingText), cancellationToken);
         }
 
         protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersAdded, ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)

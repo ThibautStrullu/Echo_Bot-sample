@@ -12413,11 +12413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thibaut\\source\\repos\\EchoBot_sample\\EchoBot_sample\\EchoBot_sample.csproj",
+      "projectUniqueName": "C:\\sources\\Echo_Bot-sample\\EchoBot_sample\\EchoBot_sample.csproj",
       "projectName": "EchoBot_sample",
-      "projectPath": "C:\\Users\\Thibaut\\source\\repos\\EchoBot_sample\\EchoBot_sample\\EchoBot_sample.csproj",
+      "projectPath": "C:\\sources\\Echo_Bot-sample\\EchoBot_sample\\EchoBot_sample.csproj",
       "packagesPath": "C:\\Users\\Thibaut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thibaut\\source\\repos\\EchoBot_sample\\EchoBot_sample\\obj\\",
+      "outputPath": "C:\\sources\\Echo_Bot-sample\\EchoBot_sample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
